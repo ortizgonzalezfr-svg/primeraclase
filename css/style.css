@@ -36,6 +36,19 @@ nav ul {
 
 nav a {
     text-decoration: none;
-    color: black;
+    color: white;
     font-size: 20px;
+}
+#s1{
+    background-image: url('../imagenes/rene.jpg'),url('../imagenes/rene.jpg');
+    background-position: top left,top right;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    padding: 50px;
+    
+}
+.p1{
+    text-shadow: 3px 3px 10px white;
+    font-size: 20px;
+    
 }
